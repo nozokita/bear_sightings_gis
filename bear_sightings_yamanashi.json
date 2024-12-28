@@ -1,0 +1,2158 @@
+[
+  {
+    "date": "2024/4/1",
+    "time": "14:00頃",
+    "city": "都留市",
+    "location": "大野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/4/2",
+    "time": "17:30頃",
+    "city": "市川三郷町",
+    "location": "黒沢",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/4/4",
+    "time": "16:40頃",
+    "city": "市川三郷町",
+    "location": "黒沢",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/4/11",
+    "time": "21:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/4/13",
+    "time": "7:00頃",
+    "city": "早川町",
+    "location": "新倉",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/4/13",
+    "time": "17:40頃",
+    "city": "上野原市",
+    "location": "大野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/4/14",
+    "time": "12:20頃",
+    "city": "山中湖村",
+    "location": "平野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/4/25",
+    "time": "3:40頃",
+    "city": "甲府市",
+    "location": "平瀬町",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/5",
+    "time": "18:30頃",
+    "city": "南部町",
+    "location": "福士徳間",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/6",
+    "time": "11:00頃",
+    "city": "都留市",
+    "location": "大野",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/5/7",
+    "time": "11:20頃",
+    "city": "南部町",
+    "location": "成島釜の口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/9",
+    "time": "16:45頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/11",
+    "time": "14:50頃",
+    "city": "山中湖村",
+    "location": "平野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/15",
+    "time": "16:10頃",
+    "city": "市川三郷町",
+    "location": "寺所",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/18",
+    "time": "9:40頃",
+    "city": "笛吹市",
+    "location": "御坂町上黒駒",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/18",
+    "time": "13:40頃",
+    "city": "上野原市",
+    "location": "上野原市秋山",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/19",
+    "time": "13:30頃",
+    "city": "笛吹市",
+    "location": "芦川町上芦川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/19",
+    "time": "15:30頃",
+    "city": "笛吹市",
+    "location": "芦川町上芦川",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/5/20",
+    "time": "13:30頃",
+    "city": "笛吹市",
+    "location": "芦川町上芦川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/20",
+    "time": "13:00頃",
+    "city": "笛吹市",
+    "location": "御坂町藤野木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/20",
+    "time": "17:10頃",
+    "city": "身延町",
+    "location": "三沢",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/22",
+    "time": "6:00頃",
+    "city": "身延町",
+    "location": "飯富",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/22",
+    "time": "14:30頃",
+    "city": "早川町",
+    "location": "湯島",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/24",
+    "time": "23:30頃",
+    "city": "都留市",
+    "location": "川棚",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/25",
+    "time": "16:00頃",
+    "city": "富士吉田市",
+    "location": "大明見",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/26",
+    "time": "12:00頃",
+    "city": "富士吉田市",
+    "location": "上暮地",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/26",
+    "time": "14:00頃",
+    "city": "忍野村",
+    "location": "二十曲峠付近",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/26",
+    "time": "16:00頃",
+    "city": "早川町",
+    "location": "奈良田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/27",
+    "time": "不明",
+    "city": "山梨市",
+    "location": "牧丘町塩平",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/28",
+    "time": "14:00頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/29",
+    "time": "不明",
+    "city": "山梨市",
+    "location": "牧丘町塩平",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/29",
+    "time": "15:15頃",
+    "city": "身延町",
+    "location": "三澤大道",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/5/31",
+    "time": "7:00頃",
+    "city": "小菅村",
+    "location": "中組地区山沢",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/2",
+    "time": "19:40頃",
+    "city": "笛吹市",
+    "location": "一宮町竹原田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/3",
+    "time": "12:00頃",
+    "city": "甲州市",
+    "location": "塩山上萩原",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/6/4",
+    "time": "7:30頃",
+    "city": "身延町",
+    "location": "小原島",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/4",
+    "time": "18:30頃",
+    "city": "忍野村",
+    "location": "忍草",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/5",
+    "time": "12:00頃",
+    "city": "南部町",
+    "location": "福士鯨野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/5",
+    "time": "14:30頃",
+    "city": "韮崎市",
+    "location": "清哲町青木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/5",
+    "time": "18:00頃",
+    "city": "身延町",
+    "location": "和田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/5",
+    "time": "18:30頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/6",
+    "time": "9:00頃",
+    "city": "小菅村",
+    "location": "川池",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/6",
+    "time": "10:00頃",
+    "city": "富士吉田市",
+    "location": "上吉田諏訪内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/6",
+    "time": "12:30頃",
+    "city": "早川町",
+    "location": "保地区",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/7",
+    "time": "6:30頃",
+    "city": "都留市",
+    "location": "十日市場",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/6/7",
+    "time": "16:30頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/8",
+    "time": "10:30頃",
+    "city": "上野原市",
+    "location": "棡原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/8",
+    "time": "18:30頃",
+    "city": "身延町",
+    "location": "和田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/8",
+    "time": "18:30頃",
+    "city": "笛吹市",
+    "location": "御坂町藤木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/9",
+    "time": "13:00頃",
+    "city": "笛吹市",
+    "location": "境川町藤垈",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/9",
+    "time": "15:30頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/9",
+    "time": "16:00頃",
+    "city": "小菅村",
+    "location": "小永田地区",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/10",
+    "time": "8:30頃",
+    "city": "身延町",
+    "location": "和田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/10",
+    "time": "10:30頃",
+    "city": "小菅村",
+    "location": "棚沢地区",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/10",
+    "time": "11:30頃",
+    "city": "大月市",
+    "location": "初狩町中初狩",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/10",
+    "time": "14:30頃",
+    "city": "都留市",
+    "location": "平栗",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/10",
+    "time": "18:30頃",
+    "city": "忍野村",
+    "location": "忍草",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/11",
+    "time": "9:30頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/11",
+    "time": "12:00頃",
+    "city": "都留市",
+    "location": "大幡・初狩",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/11",
+    "time": "14:30頃",
+    "city": "南部町",
+    "location": "塩沢地区",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/11",
+    "time": "16:00頃",
+    "city": "大月市",
+    "location": "笹子町黒野田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/11",
+    "time": "17:00頃",
+    "city": "早川町",
+    "location": "奈良田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/12",
+    "time": "6:30頃",
+    "city": "山中湖村",
+    "location": "山中",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/12",
+    "time": "14:30頃",
+    "city": "北杜市",
+    "location": "白州町白須",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/12",
+    "time": "14:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/12",
+    "time": "15:30頃",
+    "city": "北杜市",
+    "location": "須玉町江草",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/6/12",
+    "time": "20:00頃",
+    "city": "笛吹市",
+    "location": "御坂町藤木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/13",
+    "time": "13:00頃",
+    "city": "大月市",
+    "location": "真木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/13",
+    "time": "18:30頃",
+    "city": "富士吉田市",
+    "location": "上暮地",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/14",
+    "time": "11:00頃",
+    "city": "山梨市",
+    "location": "三富川浦",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/14",
+    "time": "13:00頃",
+    "city": "笛吹市",
+    "location": "八代町竹居",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/14",
+    "time": "14:30頃",
+    "city": "富士河口湖町",
+    "location": "大石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/14",
+    "time": "19:00頃",
+    "city": "甲府市",
+    "location": "古関",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/16",
+    "time": "8:00頃",
+    "city": "富士河口湖町",
+    "location": "大石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/16",
+    "time": "9:00頃",
+    "city": "富士河口湖町",
+    "location": "大石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/16",
+    "time": "16:00頃",
+    "city": "市川三郷町",
+    "location": "山保",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/16",
+    "time": "17:00頃",
+    "city": "富士河口湖町",
+    "location": "大石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/17",
+    "time": "11:00頃",
+    "city": "小菅村",
+    "location": "鶴峠頂上付近",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/17",
+    "time": "14:30頃",
+    "city": "早川町",
+    "location": "保地区",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/17",
+    "time": "17:00頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/18",
+    "time": "10:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/18",
+    "time": "15:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/19",
+    "time": "11:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/19",
+    "time": "12:00頃",
+    "city": "身延町",
+    "location": "横根中",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/19",
+    "time": "13:00頃",
+    "city": "大月市",
+    "location": "七保町奈良子",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/19",
+    "time": "13:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/20",
+    "time": "8:30頃",
+    "city": "都留市",
+    "location": "大幡",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/20",
+    "time": "15:00頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/22",
+    "time": "6:00頃",
+    "city": "富士河口湖町",
+    "location": "西湖南",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/22",
+    "time": "8:30頃",
+    "city": "富士河口湖町",
+    "location": "浅川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/22",
+    "time": "12:30頃",
+    "city": "富士河口湖町",
+    "location": "本栖",
+    "bear_count": "3"
+  },
+  {
+    "date": "2024/6/22",
+    "time": "14:00頃",
+    "city": "大月市",
+    "location": "七保町奈良子",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/24",
+    "time": "7:30頃",
+    "city": "小菅村",
+    "location": "大久保",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/24",
+    "time": "15:30頃",
+    "city": "上野原市",
+    "location": "西原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/25",
+    "time": "17:30頃",
+    "city": "早川町",
+    "location": "大島",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/25",
+    "time": "18:30頃",
+    "city": "小菅村",
+    "location": "小永田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/26",
+    "time": "5:00頃",
+    "city": "上野原市",
+    "location": "鶴川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/26",
+    "time": "6:00頃",
+    "city": "大月市",
+    "location": "七保町瀬戸",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/26",
+    "time": "12:30頃",
+    "city": "大月市",
+    "location": "七保町葛野",
+    "bear_count": "3"
+  },
+  {
+    "date": "2024/6/26",
+    "time": "12:30頃",
+    "city": "大月市",
+    "location": "真木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/26",
+    "time": "15:30頃",
+    "city": "山梨市",
+    "location": "三富川浦",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/26",
+    "time": "17:30頃",
+    "city": "笛吹市",
+    "location": "八代町竹居",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/27",
+    "time": "8:00頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/27",
+    "time": "8:00頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/27",
+    "time": "9:30頃",
+    "city": "笛吹市",
+    "location": "芦川町上芦川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/27",
+    "time": "18:30頃",
+    "city": "鳴沢村",
+    "location": "鳴沢",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/27",
+    "time": "18:30頃",
+    "city": "南部町",
+    "location": "中野区和田原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/28",
+    "time": "14:00頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/28",
+    "time": "16:00頃",
+    "city": "山中湖村",
+    "location": "長池",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/28",
+    "time": "16:00頃",
+    "city": "丹波山村",
+    "location": "奥秋",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/29",
+    "time": "17:00頃",
+    "city": "富士河口湖町",
+    "location": "大石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/30",
+    "time": "7:30頃",
+    "city": "山中湖村",
+    "location": "山中",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/30",
+    "time": "9:00頃",
+    "city": "富士河口湖町",
+    "location": "大石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/30",
+    "time": "9:30頃",
+    "city": "笛吹市",
+    "location": "八代町竹居",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/30",
+    "time": "17:00頃",
+    "city": "都留市",
+    "location": "小野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/6/30",
+    "time": "18:00頃",
+    "city": "富士河口湖町",
+    "location": "大石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/1",
+    "time": "1:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/1",
+    "time": "8:00頃",
+    "city": "小菅村",
+    "location": "井狩",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/1",
+    "time": "9:00頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/2",
+    "time": "8:30頃",
+    "city": "大月市",
+    "location": "七保町奈良子",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/2",
+    "time": "13:00頃",
+    "city": "甲州市",
+    "location": "大和町日影",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/3",
+    "time": "6:30頃",
+    "city": "南部町",
+    "location": "南部外田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/3",
+    "time": "8:00頃",
+    "city": "甲州市",
+    "location": "大和町日影",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/3",
+    "time": "15:00頃",
+    "city": "笛吹市",
+    "location": "御坂町藤野木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/3",
+    "time": "15:30頃",
+    "city": "上野原市",
+    "location": "大野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/3",
+    "time": "16:00頃",
+    "city": "富士河口湖町",
+    "location": "大石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/4",
+    "time": "6:00頃",
+    "city": "都留市",
+    "location": "大幡",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/4",
+    "time": "8:30頃",
+    "city": "都留市",
+    "location": "盛里",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/4",
+    "time": "18:00頃",
+    "city": "北杜市",
+    "location": "白州町白須",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/5",
+    "time": "14:00頃",
+    "city": "北杜市",
+    "location": "白州町島原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/5",
+    "time": "15:00頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/6",
+    "time": "7:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/6",
+    "time": "7:30頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/6",
+    "time": "9:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/6",
+    "time": "13:30頃",
+    "city": "上野原市",
+    "location": "西原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/6",
+    "time": "13:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/7/7",
+    "time": "14:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/8",
+    "time": "13:00頃",
+    "city": "富士河口湖町",
+    "location": "大石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/9",
+    "time": "8:30頃",
+    "city": "笛吹市",
+    "location": "一宮町金沢",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/9",
+    "time": "17:00頃",
+    "city": "丹波山村",
+    "location": "所畑",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/10",
+    "time": "8:00頃",
+    "city": "小菅村",
+    "location": "小永田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/11",
+    "time": "8:00頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/11",
+    "time": "14:00頃",
+    "city": "大月市",
+    "location": "七保町瀬戸",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/11",
+    "time": "14:30頃",
+    "city": "身延町",
+    "location": "相又",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/11",
+    "time": "18:30頃",
+    "city": "笛吹市",
+    "location": "御坂町藤野木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/12",
+    "time": "15:00頃",
+    "city": "小菅村",
+    "location": "棚沢地区",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/14",
+    "time": "15:00頃",
+    "city": "都留市",
+    "location": "大幡",
+    "bear_count": "8"
+  },
+  {
+    "date": "2024/7/18",
+    "time": "7:00頃",
+    "city": "笛吹市",
+    "location": "八代町竹居",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/18",
+    "time": "17:00頃",
+    "city": "身延町",
+    "location": "中ノ倉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/19",
+    "time": "8:30頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/20",
+    "time": "18:00頃",
+    "city": "山中湖村",
+    "location": "長池",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/21",
+    "time": "15:00頃",
+    "city": "上野原市",
+    "location": "向風",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/22",
+    "time": "8:30頃",
+    "city": "山梨市",
+    "location": "三富川浦",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/23",
+    "time": "5:00頃",
+    "city": "上野原市",
+    "location": "棡原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/23",
+    "time": "7:30頃",
+    "city": "富士河口湖町",
+    "location": "精進",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/24",
+    "time": "19:00頃",
+    "city": "北杜市",
+    "location": "武川町黒澤",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/25",
+    "time": "11:30頃",
+    "city": "身延町",
+    "location": "下粟倉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/25",
+    "time": "18:30頃",
+    "city": "上野原市",
+    "location": "鶴島",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/7/26",
+    "time": "15:30頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/27",
+    "time": "11:00頃",
+    "city": "早川町",
+    "location": "奈良田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/28",
+    "time": "3:00頃",
+    "city": "丹波山村",
+    "location": "上組",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/28",
+    "time": "20:30頃",
+    "city": "身延町",
+    "location": "江尻窪",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/7/29",
+    "time": "8:30頃",
+    "city": "南部町",
+    "location": "福士",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/29",
+    "time": "11:30頃",
+    "city": "大月市",
+    "location": "七保町瀬戸",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/29",
+    "time": "17:00頃",
+    "city": "早川町",
+    "location": "奈良田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/30",
+    "time": "7:00頃",
+    "city": "丹波山村",
+    "location": "熊倉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/31",
+    "time": "12:00頃",
+    "city": "大月市",
+    "location": "賑岡町畑倉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/31",
+    "time": "17:30頃",
+    "city": "北杜市",
+    "location": "大泉町西井出",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/7/31",
+    "time": "22:30頃",
+    "city": "富士河口湖町",
+    "location": "浅川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/3",
+    "time": "11:00頃",
+    "city": "大月市",
+    "location": "真木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/3",
+    "time": "18:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/8",
+    "time": "21:30頃",
+    "city": "北杜市",
+    "location": "白州町横手",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/11",
+    "time": "7:00頃",
+    "city": "丹波山村",
+    "location": "熊倉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/11",
+    "time": "22:00頃",
+    "city": "富士河口湖町",
+    "location": "船津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/11",
+    "time": "23:30頃",
+    "city": "富士河口湖町",
+    "location": "船津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/12",
+    "time": "5:30頃",
+    "city": "富士河口湖町",
+    "location": "船津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/12",
+    "time": "6:00頃",
+    "city": "富士河口湖町",
+    "location": "船津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/12",
+    "time": "14:00頃",
+    "city": "北杜市",
+    "location": "白州町横手",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/8/13",
+    "time": "11:30頃",
+    "city": "甲州市",
+    "location": "塩山上萩原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/13",
+    "time": "13:30頃",
+    "city": "北杜市",
+    "location": "白州町横手",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/13",
+    "time": "19:00頃",
+    "city": "上野原市",
+    "location": "秋山",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/15",
+    "time": "9:00頃",
+    "city": "富士河口湖町",
+    "location": "富士ヶ嶺",
+    "bear_count": "3"
+  },
+  {
+    "date": "2024/8/15",
+    "time": "13:30頃",
+    "city": "大月市",
+    "location": "賑岡町強瀬",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/15",
+    "time": "15:00頃",
+    "city": "笛吹市",
+    "location": "芦川町上芦川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/15",
+    "time": "17:30頃",
+    "city": "大月市",
+    "location": "梁川町立野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/15",
+    "time": "20:30頃",
+    "city": "北杜市",
+    "location": "武川町山高",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/16",
+    "time": "4:30頃",
+    "city": "北杜市",
+    "location": "白州町横手",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/16",
+    "time": "18:00頃",
+    "city": "北杜市",
+    "location": "白州町横手",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/16",
+    "time": "19:00頃",
+    "city": "小菅村",
+    "location": "橋立",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/17",
+    "time": "18:00頃",
+    "city": "北杜市",
+    "location": "白州町横手",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/17",
+    "time": "18:30頃",
+    "city": "富士河口湖町",
+    "location": "船津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/18",
+    "time": "6:00頃",
+    "city": "丹波山村",
+    "location": "丹波山村",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/8/20",
+    "time": "2:00頃",
+    "city": "北杜市",
+    "location": "白州町鳥原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/20",
+    "time": "5:30頃",
+    "city": "富士河口湖町",
+    "location": "船津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/20",
+    "time": "10:00頃",
+    "city": "富士吉田市",
+    "location": "上暮地",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/8/20",
+    "time": "13:30頃",
+    "city": "笛吹市",
+    "location": "御坂町藤野木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/21",
+    "time": "23:30頃",
+    "city": "富士河口湖町",
+    "location": "船津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/22",
+    "time": "7:00頃",
+    "city": "北杜市",
+    "location": "白州町大坊",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/22",
+    "time": "23:30頃",
+    "city": "北杜市",
+    "location": "武川町山高",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/23",
+    "time": "16:30頃",
+    "city": "北杜市",
+    "location": "白州町上教来石",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/24",
+    "time": "9:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/25",
+    "time": "5:00頃",
+    "city": "甲府市",
+    "location": "善光寺町",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/27",
+    "time": "23:30頃",
+    "city": "北杜市",
+    "location": "武川町山高",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/29",
+    "time": "12:00頃",
+    "city": "大月市",
+    "location": "賑岡町浅利",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/8/30",
+    "time": "8:00頃",
+    "city": "大月市",
+    "location": "初狩町下初狩日向",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/8/30",
+    "time": "15:00頃",
+    "city": "大月市",
+    "location": "七保町駒宮",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/9/1",
+    "time": "0:00頃",
+    "city": "北杜市",
+    "location": "武川町山高",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/4",
+    "time": "15:30頃",
+    "city": "上野原市",
+    "location": "大椚",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/6",
+    "time": "11:30頃",
+    "city": "大月市",
+    "location": "七保町浅川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/8",
+    "time": "7:00頃",
+    "city": "富士川町",
+    "location": "平林",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/9",
+    "time": "5:00頃",
+    "city": "南部町",
+    "location": "佐野区上佐野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/9",
+    "time": "17:30頃",
+    "city": "道志村",
+    "location": "大栗",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/10",
+    "time": "9:30頃",
+    "city": "富士吉田市",
+    "location": "上暮地",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/10",
+    "time": "15:30頃",
+    "city": "早川町",
+    "location": "高住",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/11",
+    "time": "0:30頃",
+    "city": "山梨市",
+    "location": "三富徳和",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/12",
+    "time": "11:00頃",
+    "city": "早川町",
+    "location": "奈良田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/12",
+    "time": "16:30頃",
+    "city": "富士吉田市",
+    "location": "上暮地",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/9/13",
+    "time": "16:00頃",
+    "city": "身延町",
+    "location": "湯之奥",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/13",
+    "time": "19:30頃",
+    "city": "北杜市",
+    "location": "武川町山高",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/15",
+    "time": "21:00頃",
+    "city": "都留市",
+    "location": "禾生、井倉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/17",
+    "time": "11:00頃",
+    "city": "都留市",
+    "location": "大野",
+    "bear_count": "3"
+  },
+  {
+    "date": "2024/9/17",
+    "time": "14:30頃",
+    "city": "大月市",
+    "location": "賑岡町浅利",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/18",
+    "time": "1:30頃",
+    "city": "富士河口湖町",
+    "location": "船津",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/9/18",
+    "time": "7:00頃",
+    "city": "市川三郷町",
+    "location": "上野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/18",
+    "time": "16:00頃",
+    "city": "身延町",
+    "location": "北川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/18",
+    "time": "10:30頃",
+    "city": "富士河口湖町",
+    "location": "船津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/19",
+    "time": "1:30頃",
+    "city": "北杜市",
+    "location": "長坂町長坂下条",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/19",
+    "time": "7:30頃",
+    "city": "上野原市",
+    "location": "四方津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/19",
+    "time": "18:00頃",
+    "city": "身延町",
+    "location": "常葉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/21",
+    "time": "21:00頃",
+    "city": "身延町",
+    "location": "清子",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/22",
+    "time": "23:00頃",
+    "city": "身延町",
+    "location": "北川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/24",
+    "time": "6:00頃",
+    "city": "上野原市",
+    "location": "鶴島",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/24",
+    "time": "15:30頃",
+    "city": "山中湖村",
+    "location": "長池",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/24",
+    "time": "16:30頃",
+    "city": "北杜市",
+    "location": "武川町柳澤",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/25",
+    "time": "8:30頃",
+    "city": "道志村",
+    "location": "大栗",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/26",
+    "time": "11:30頃",
+    "city": "北杜市",
+    "location": "武川町山高",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/26",
+    "time": "16:30頃",
+    "city": "北杜市",
+    "location": "白州町白須",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/26",
+    "time": "19:30頃",
+    "city": "身延町",
+    "location": "粟倉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/28",
+    "time": "9:00頃",
+    "city": "富士吉田市",
+    "location": "上暮地",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/28",
+    "time": "15:30頃",
+    "city": "南アルプス市",
+    "location": "上市之瀬",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/9/29",
+    "time": "10:30頃",
+    "city": "都留市",
+    "location": "宝地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/1",
+    "time": "16:00頃",
+    "city": "富士川町",
+    "location": "十谷",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/2",
+    "time": "18:00頃",
+    "city": "市川三郷町",
+    "location": "中山",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/5",
+    "time": "16:30頃",
+    "city": "北杜市",
+    "location": "長坂町渋沢",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/6",
+    "time": "14:30頃",
+    "city": "身延町",
+    "location": "大島",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/7",
+    "time": "9:30頃",
+    "city": "南アルプス市",
+    "location": "高尾",
+    "bear_count": "不明"
+  },
+  {
+    "date": "2024/10/9",
+    "time": "15:30頃",
+    "city": "上野原市",
+    "location": "四方津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/10",
+    "time": "8:30頃",
+    "city": "上野原市",
+    "location": "四方津",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/10",
+    "time": "20:30頃",
+    "city": "身延町",
+    "location": "大島",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/11",
+    "time": "10:00頃",
+    "city": "上野原市",
+    "location": "秋山",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/12",
+    "time": "14:30頃",
+    "city": "都留市",
+    "location": "上谷",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/12",
+    "time": "17:00頃",
+    "city": "上野原市",
+    "location": "秋山",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/12",
+    "time": "19:15頃",
+    "city": "忍野村",
+    "location": "内野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/14",
+    "time": "17:00頃",
+    "city": "身延町",
+    "location": "北川",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/15",
+    "time": "4:00頃",
+    "city": "都留市",
+    "location": "田野倉",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/10/15",
+    "time": "5:00頃",
+    "city": "身延町",
+    "location": "八日市場",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/15",
+    "time": "19:00頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/16",
+    "time": "23:30頃",
+    "city": "身延町",
+    "location": "下田原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/17",
+    "time": "9:30頃",
+    "city": "富士河口湖町",
+    "location": "精進",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/21",
+    "time": "7:30頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/21",
+    "time": "10:00頃",
+    "city": "上野原市",
+    "location": "諏訪",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/21",
+    "time": "17:00頃",
+    "city": "南部町",
+    "location": "大和",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/21",
+    "time": "17:15頃",
+    "city": "富士河口湖町",
+    "location": "西湖",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/22",
+    "time": "7:30頃",
+    "city": "山中湖村",
+    "location": "平野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/22",
+    "time": "10:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/23",
+    "time": "9:00頃",
+    "city": "身延町",
+    "location": "常葉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/23",
+    "time": "9:30頃",
+    "city": "北杜市",
+    "location": "白州町大坊",
+    "bear_count": "00"
+  },
+  {
+    "date": "2024/10/23",
+    "time": "12:30頃",
+    "city": "甲府市",
+    "location": "善光寺町",
+    "bear_count": "3"
+  },
+  {
+    "date": "2024/10/23",
+    "time": "15:00頃",
+    "city": "北杜市",
+    "location": "白州町鳥原",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/10/23",
+    "time": "15:00頃",
+    "city": "上野原市",
+    "location": "鶴島",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/25",
+    "time": "6:00頃",
+    "city": "大月市",
+    "location": "猿橋町藤崎",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/31",
+    "time": "13:00頃",
+    "city": "富士吉田市",
+    "location": "新西原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/31",
+    "time": "15:00頃",
+    "city": "南部町",
+    "location": "内船",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/10/31",
+    "time": "16:00頃",
+    "city": "小菅村",
+    "location": "山沢",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/1",
+    "time": "6:00頃",
+    "city": "南部町",
+    "location": "万沢",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/2",
+    "time": "18:00頃",
+    "city": "上野原市",
+    "location": "西原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/3",
+    "time": "13:30頃",
+    "city": "身延町",
+    "location": "下部",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/11/4",
+    "time": "7:00頃",
+    "city": "市川三郷町",
+    "location": "上野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/4",
+    "time": "8:00頃",
+    "city": "富士河口湖町",
+    "location": "精進",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/4",
+    "time": "9:00頃",
+    "city": "中央市",
+    "location": "大鳥居",
+    "bear_count": "不明"
+  },
+  {
+    "date": "2024/11/4",
+    "time": "16:00頃",
+    "city": "上野原市",
+    "location": "棡原",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/4",
+    "time": "17:00頃",
+    "city": "身延町",
+    "location": "常葉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/4",
+    "time": "17:30頃",
+    "city": "山中湖村",
+    "location": "山中",
+    "bear_count": "不明"
+  },
+  {
+    "date": "2024/11/4",
+    "time": "19:30頃",
+    "city": "身延町",
+    "location": "常葉",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/5",
+    "time": "13:00頃",
+    "city": "上野原市",
+    "location": "桑久保",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/6",
+    "time": "19:00頃",
+    "city": "早川町",
+    "location": "千須和",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/10",
+    "time": "10:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/11",
+    "time": "9:00頃",
+    "city": "小菅村",
+    "location": "栗山",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/13",
+    "time": "15:00頃",
+    "city": "大月市",
+    "location": "七保町奈良子",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/14",
+    "time": "16:30頃",
+    "city": "早川町",
+    "location": "保地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/14",
+    "time": "17:30頃",
+    "city": "大月市",
+    "location": "賑岡町浅利",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/17",
+    "time": "12:00頃",
+    "city": "市川三郷町",
+    "location": "垈地内",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/18",
+    "time": "9:00頃",
+    "city": "南アルプス市",
+    "location": "上市之瀬",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/20",
+    "time": "11:00頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/21",
+    "time": "14:30頃",
+    "city": "忍野村",
+    "location": "内野",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/22",
+    "time": "20:30頃",
+    "city": "富士河口湖町",
+    "location": "西湖",
+    "bear_count": "2"
+  },
+  {
+    "date": "2024/11/23",
+    "time": "12:00頃",
+    "city": "北杜市",
+    "location": "白州町白須",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/23",
+    "time": "16:30頃",
+    "city": "笛吹市",
+    "location": "八代町大間田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/25",
+    "time": "15:30頃",
+    "city": "大月市",
+    "location": "賑岡町強瀬",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/26",
+    "time": "9:00頃",
+    "city": "甲州市",
+    "location": "塩山福生里",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/27",
+    "time": "18:30頃",
+    "city": "中央市",
+    "location": "浅利",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/28",
+    "time": "16:30頃",
+    "city": "笛吹市",
+    "location": "八代町大間田",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/29",
+    "time": "15:30頃",
+    "city": "富士河口湖町",
+    "location": "河口",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/29",
+    "time": "19:30頃",
+    "city": "忍野村",
+    "location": "忍草区",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/11/30",
+    "time": "19:30頃",
+    "city": "身延町",
+    "location": "波高島",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/12/6",
+    "time": "12:00頃",
+    "city": "笛吹市",
+    "location": "御坂町藤野木",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/12/17",
+    "time": "15:30頃",
+    "city": "富士河口湖町",
+    "location": "西湖",
+    "bear_count": "1"
+  },
+  {
+    "date": "2024/12/23",
+    "time": "17:00頃",
+    "city": "上野原市",
+    "location": "鶴島",
+    "bear_count": "1"
+  }
+]

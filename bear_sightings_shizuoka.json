@@ -1,0 +1,674 @@
+[
+  {
+    "number": "1",
+    "date": "4月5日",
+    "municipality": "富士宮市",
+    "location": "佐折"
+  },
+  {
+    "number": "2",
+    "date": "4月7日",
+    "municipality": "富士宮市",
+    "location": "貫戸"
+  },
+  {
+    "number": "3",
+    "date": "4月11日",
+    "municipality": "富士宮市",
+    "location": "北山"
+  },
+  {
+    "number": "4",
+    "date": "4月30日",
+    "municipality": "富士宮市",
+    "location": "沼久保"
+  },
+  {
+    "number": "5-1",
+    "date": "5月1日",
+    "municipality": "富士宮市",
+    "location": "内房"
+  },
+  {
+    "number": "6",
+    "date": "5月6日",
+    "municipality": "静岡市葵区",
+    "location": "田代"
+  },
+  {
+    "number": "7",
+    "date": "5月8日",
+    "municipality": "富士宮市",
+    "location": "粟倉"
+  },
+  {
+    "number": "8",
+    "date": "5月9日",
+    "municipality": "富士宮市",
+    "location": "星山"
+  },
+  {
+    "number": "9",
+    "date": "5月19日",
+    "municipality": "浜松市天竜区",
+    "location": "佐久間町上平山"
+  },
+  {
+    "number": "10",
+    "date": "5月21日",
+    "municipality": "静岡市葵区",
+    "location": "中平"
+  },
+  {
+    "number": "11",
+    "date": "5月22日",
+    "municipality": "小山町",
+    "location": "棚頭"
+  },
+  {
+    "number": "12",
+    "date": "5月22日",
+    "municipality": "小山町",
+    "location": "用沢"
+  },
+  {
+    "number": "13-1",
+    "date": "5月27日",
+    "municipality": "小山町",
+    "location": "湯船"
+  },
+  {
+    "number": "14",
+    "date": "6月1日",
+    "municipality": "静岡市清水区",
+    "location": "大内"
+  },
+  {
+    "number": "15",
+    "date": "6月4日",
+    "municipality": "静岡市葵区",
+    "location": "田代"
+  },
+  {
+    "number": "16-1",
+    "date": "6月4日",
+    "municipality": "小山町",
+    "location": "中日向"
+  },
+  {
+    "number": "17",
+    "date": "6月5日",
+    "municipality": "御殿場市",
+    "location": "中畑"
+  },
+  {
+    "number": "13-2",
+    "date": "6月5日",
+    "municipality": "小山町",
+    "location": "湯船"
+  },
+  {
+    "number": "18-1",
+    "date": "6月6日",
+    "municipality": "静岡市葵区",
+    "location": "平野"
+  },
+  {
+    "number": "57",
+    "date": "6月7日",
+    "municipality": "川根本町",
+    "location": "犬間"
+  },
+  {
+    "number": "58",
+    "date": "6月8日",
+    "municipality": "川根本町",
+    "location": "壱町河内"
+  },
+  {
+    "number": "19",
+    "date": "6月8日",
+    "municipality": "静岡市駿河区",
+    "location": "丸子"
+  },
+  {
+    "number": "20",
+    "date": "6月8日",
+    "municipality": "静岡市清水区",
+    "location": "伊佐布"
+  },
+  {
+    "number": "21-1",
+    "date": "6月8日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "22-1",
+    "date": "6月9日",
+    "municipality": "小山町",
+    "location": "棚頭"
+  },
+  {
+    "number": "23",
+    "date": "6月9日",
+    "municipality": "浜松市天竜区",
+    "location": "水窪町奥領家"
+  },
+  {
+    "number": "21-2",
+    "date": "6月10日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "21-3",
+    "date": "6月10日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "21-4",
+    "date": "6月11日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "24-1",
+    "date": "6月11日",
+    "municipality": "小山町",
+    "location": "大御神"
+  },
+  {
+    "number": "18-2",
+    "date": "6月12日",
+    "municipality": "静岡市葵区",
+    "location": "平野"
+  },
+  {
+    "number": "25",
+    "date": "6月12日",
+    "municipality": "浜松市天竜区",
+    "location": "水窪町奥領家"
+  },
+  {
+    "number": "26",
+    "date": "6月13日",
+    "municipality": "静岡市清水区",
+    "location": "大平"
+  },
+  {
+    "number": "27-1",
+    "date": "6月13日",
+    "municipality": "富士宮市",
+    "location": "人穴"
+  },
+  {
+    "number": "27-2",
+    "date": "6月14日",
+    "municipality": "富士宮市",
+    "location": "人穴"
+  },
+  {
+    "number": "24-2",
+    "date": "6月15日",
+    "municipality": "小山町",
+    "location": "大御神"
+  },
+  {
+    "number": "28",
+    "date": "6月16日",
+    "municipality": "御殿場市",
+    "location": "仁杉"
+  },
+  {
+    "number": "29",
+    "date": "6月16日",
+    "municipality": "富士宮市",
+    "location": "佐折"
+  },
+  {
+    "number": "30-1",
+    "date": "6月16日",
+    "municipality": "富士宮市",
+    "location": "猪之頭"
+  },
+  {
+    "number": "31-1",
+    "date": "6月17日",
+    "municipality": "裾野市",
+    "location": "富沢"
+  },
+  {
+    "number": "31-2",
+    "date": "6月18日",
+    "municipality": "裾野市",
+    "location": "桃園"
+  },
+  {
+    "number": "5-2",
+    "date": "6月20日",
+    "municipality": "富士宮市",
+    "location": "内房"
+  },
+  {
+    "number": "22-2",
+    "date": "6月21日",
+    "municipality": "小山町",
+    "location": "棚頭"
+  },
+  {
+    "number": "32",
+    "date": "6月25日",
+    "municipality": "静岡市葵区",
+    "location": "有東木"
+  },
+  {
+    "number": "21-5",
+    "date": "6月26日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "22-3",
+    "date": "6月27日",
+    "municipality": "小山町",
+    "location": "棚頭"
+  },
+  {
+    "number": "33",
+    "date": "6月27日",
+    "municipality": "浜松市天竜区",
+    "location": "春野町豊岡"
+  },
+  {
+    "number": "21-6",
+    "date": "6月29日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "34",
+    "date": "6月29日",
+    "municipality": "浜松市天竜区",
+    "location": "水窪町奥領家"
+  },
+  {
+    "number": "35",
+    "date": "7月1日",
+    "municipality": "小山町",
+    "location": "小山"
+  },
+  {
+    "number": "36",
+    "date": "7月3日",
+    "municipality": "静岡市葵区",
+    "location": "井川"
+  },
+  {
+    "number": "18-3",
+    "date": "7月4日",
+    "municipality": "静岡市葵区",
+    "location": "平野"
+  },
+  {
+    "number": "21-7",
+    "date": "7月4日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "21-8",
+    "date": "7月4日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "37",
+    "date": "7月5日",
+    "municipality": "静岡市清水区",
+    "location": "宍原"
+  },
+  {
+    "number": "38",
+    "date": "7月7日",
+    "municipality": "静岡市清水区",
+    "location": "由比"
+  },
+  {
+    "number": "39",
+    "date": "7月7日",
+    "municipality": "静岡市葵区",
+    "location": "小瀬戸"
+  },
+  {
+    "number": "40-1",
+    "date": "7月8日",
+    "municipality": "静岡市葵区",
+    "location": "口坂本"
+  },
+  {
+    "number": "41",
+    "date": "7月9日",
+    "municipality": "浜松市天竜区",
+    "location": "水窪町奥領家"
+  },
+  {
+    "number": "21-9",
+    "date": "7月11日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "21-10",
+    "date": "7月11日",
+    "municipality": "静岡市葵区",
+    "location": "梅ケ島"
+  },
+  {
+    "number": "42",
+    "date": "7月11日",
+    "municipality": "静岡市葵区",
+    "location": "井川"
+  },
+  {
+    "number": "43",
+    "date": "7月11日",
+    "municipality": "浜松市天竜区",
+    "location": "龍山町瀬尻"
+  },
+  {
+    "number": "40-2",
+    "date": "7月12日",
+    "municipality": "静岡市葵区",
+    "location": "井川"
+  },
+  {
+    "number": "44-1",
+    "date": "7月15日",
+    "municipality": "静岡市葵区",
+    "location": "口坂本"
+  },
+  {
+    "number": "21-11",
+    "date": "7月18日",
+    "municipality": "静岡市葵区",
+    "location": "梅ヶ島"
+  },
+  {
+    "number": "44-2",
+    "date": "7月18日",
+    "municipality": "静岡市葵区",
+    "location": "横沢"
+  },
+  {
+    "number": "40-3",
+    "date": "7月20日",
+    "municipality": "静岡市葵区",
+    "location": "井川"
+  },
+  {
+    "number": "16-2",
+    "date": "7月23日",
+    "municipality": "小山町",
+    "location": "中日向"
+  },
+  {
+    "number": "21-12",
+    "date": "7月23日",
+    "municipality": "静岡市葵区",
+    "location": "梅ヶ島"
+  },
+  {
+    "number": "21-13",
+    "date": "7月25日",
+    "municipality": "静岡市葵区",
+    "location": "梅ヶ島"
+  },
+  {
+    "number": "45",
+    "date": "7月25日",
+    "municipality": "島田市",
+    "location": "伊久美"
+  },
+  {
+    "number": "46",
+    "date": "7月26日",
+    "municipality": "浜松市天竜区",
+    "location": "水窪町奥領家"
+  },
+  {
+    "number": "21-14",
+    "date": "7月28日",
+    "municipality": "静岡市葵区",
+    "location": "梅ヶ島"
+  },
+  {
+    "number": "47",
+    "date": "7月26日",
+    "municipality": "静岡市葵区",
+    "location": "大間"
+  },
+  {
+    "number": "21-15",
+    "date": "7月29日",
+    "municipality": "静岡市葵区",
+    "location": "梅ヶ島"
+  },
+  {
+    "number": "48",
+    "date": "7月29日",
+    "municipality": "富士宮市",
+    "location": "羽鮒"
+  },
+  {
+    "number": "49",
+    "date": "7月30日",
+    "municipality": "富士宮市",
+    "location": "上稲子"
+  },
+  {
+    "number": "50-1",
+    "date": "7月31日",
+    "municipality": "静岡市葵区",
+    "location": "平山（竜爪山）"
+  },
+  {
+    "number": "51-1",
+    "date": "7月31日",
+    "municipality": "浜松市天竜区",
+    "location": "水窪町奥領家"
+  },
+  {
+    "number": "52",
+    "date": "7月31日",
+    "municipality": "静岡市葵区",
+    "location": "渡"
+  },
+  {
+    "number": "40-4",
+    "date": "8月3日",
+    "municipality": "静岡市葵区",
+    "location": "井川"
+  },
+  {
+    "number": "54",
+    "date": "8月5日",
+    "municipality": "静岡市清水区",
+    "location": "布沢"
+  },
+  {
+    "number": "55",
+    "date": "8月8日",
+    "municipality": "静岡市葵区",
+    "location": "長熊"
+  },
+  {
+    "number": "56",
+    "date": "8月8日",
+    "municipality": "静岡市葵区",
+    "location": "俵峰"
+  },
+  {
+    "number": "59-1",
+    "date": "8月9日",
+    "municipality": "川根本町",
+    "location": "千頭"
+  },
+  {
+    "number": "59-2",
+    "date": "8月10日",
+    "municipality": "川根本町",
+    "location": "千頭"
+  },
+  {
+    "number": "60",
+    "date": "8月14日",
+    "municipality": "富士宮市",
+    "location": "猪之頭"
+  },
+  {
+    "number": "61",
+    "date": "8月15日",
+    "municipality": "川根本町",
+    "location": "下泉"
+  },
+  {
+    "number": "62-1",
+    "date": "8月17日",
+    "municipality": "浜松市天竜区",
+    "location": "水窪町山住"
+  },
+  {
+    "number": "13-3",
+    "date": "8月18日",
+    "municipality": "小山町",
+    "location": "湯船"
+  },
+  {
+    "number": "63",
+    "date": "8月19日",
+    "municipality": "富士宮市",
+    "location": "内房"
+  },
+  {
+    "number": "30-2",
+    "date": "8月31日",
+    "municipality": "富士宮市",
+    "location": "麓"
+  },
+  {
+    "number": "64-1",
+    "date": "9月2日",
+    "municipality": "静岡市清水区",
+    "location": "河内"
+  },
+  {
+    "number": "65-1",
+    "date": "9月6日",
+    "municipality": "富士宮市",
+    "location": "上袖野"
+  },
+  {
+    "number": "66",
+    "date": "9月9日",
+    "municipality": "富士宮市",
+    "location": "根原"
+  },
+  {
+    "number": "67",
+    "date": "9月12日",
+    "municipality": "富士宮市",
+    "location": "上井出"
+  },
+  {
+    "number": "68-1",
+    "date": "9月12日",
+    "municipality": "富士宮市",
+    "location": "内房"
+  },
+  {
+    "number": "69",
+    "date": "9月12日",
+    "municipality": "浜松市浜名区",
+    "location": "引佐町東久留"
+  },
+  {
+    "number": "65-2",
+    "date": "9月17日",
+    "municipality": "富士宮市",
+    "location": "上袖野"
+  },
+  {
+    "number": "70",
+    "date": "9月17日",
+    "municipality": "静岡市清水区",
+    "location": "蒲原"
+  },
+  {
+    "number": "65-2",
+    "date": "9月18日",
+    "municipality": "富士宮市",
+    "location": "上袖野"
+  },
+  {
+    "number": "50-2",
+    "date": "9月18日",
+    "municipality": "静岡市葵区",
+    "location": "平山"
+  },
+  {
+    "number": "71-1",
+    "date": "9月21日",
+    "municipality": "富士宮市",
+    "location": "内房"
+  },
+  {
+    "number": "65-3",
+    "date": "9月23日",
+    "municipality": "富士宮市",
+    "location": "上袖野"
+  },
+  {
+    "number": "65-4",
+    "date": "9月24日",
+    "municipality": "富士宮市",
+    "location": "上稲子"
+  },
+  {
+    "number": "71-2",
+    "date": "10月2日",
+    "municipality": "富士宮市",
+    "location": "内房"
+  },
+  {
+    "number": "51-2",
+    "date": "10月4日",
+    "municipality": "浜松市天竜区",
+    "location": "水窪町奥領"
+  },
+  {
+    "number": "72-1",
+    "date": "10月8日",
+    "municipality": "川根本町",
+    "location": "東藤川"
+  },
+  {
+    "number": "72-2",
+    "date": "11月1日",
+    "municipality": "川根本町",
+    "location": "東藤川"
+  },
+  {
+    "number": "80",
+    "date": "11月5日",
+    "municipality": "静岡市清水区",
+    "location": "吉原"
+  },
+  {
+    "number": "38-2",
+    "date": "12月4日",
+    "municipality": "静岡市清水区",
+    "location": "由比阿僧"
+  }
+]

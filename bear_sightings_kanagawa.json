@@ -1,0 +1,1028 @@
+[
+  {
+    "date": "4月2日",
+    "time": "5時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "箱根町宮城野",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "4月11日",
+    "time": "朝方",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "相模原市緑区佐野川",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "4月12日",
+    "time": "8時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町寄",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "4月17日",
+    "time": "11時半頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "厚木市七沢",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "5月11日",
+    "time": "12時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "清川村煤ケ谷",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "5月17日",
+    "time": "1時17分",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "相模原市緑区三井",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "5月19日",
+    "time": "13時27分",
+    "number_of_bears": "1",
+    "status": "捕殺",
+    "location": "",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "5月19日",
+    "time": "21時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "愛川町半原",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "5月23日",
+    "time": "22時28分頃",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "秦野市蓑毛",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "5月27日",
+    "time": "夕方",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "山北町中川",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "5月30日",
+    "time": "午前",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "伊勢原市日向",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月3日",
+    "time": "19時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町谷ケ",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月4日",
+    "time": "18時45分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市子易",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月6日",
+    "time": "20時頃",
+    "number_of_bears": "2",
+    "status": "目撃",
+    "location": "伊勢原市三ノ塔",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月8日",
+    "time": "10時17分頃",
+    "number_of_bears": "2",
+    "status": "目撃",
+    "location": "厚木市七沢",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月9日",
+    "time": "16時21分",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市大山",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月11日",
+    "time": "13時頃",
+    "number_of_bears": "1",
+    "status": "錯誤捕獲",
+    "location": "",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月12日",
+    "time": "5時05分",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "清川村煤ケ谷",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月12日",
+    "time": "5時39分",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "相模原市緑区牧野",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月14日",
+    "time": "不明",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "相模原市緑区牧野",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月15日",
+    "time": "6時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "愛川町半原",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月16日",
+    "time": "10時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市寺山",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月17日",
+    "time": "9時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町皆瀬川",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月19日",
+    "time": "6時45分",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "相模原市緑区寸沢嵐",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月22日",
+    "time": "不明",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "相模原市緑区青根",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月23日",
+    "time": "7時40分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "愛川町半原",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月23日",
+    "time": "正午頃",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "愛川町半原",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月23日",
+    "time": "20時15分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町寄",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月23日",
+    "time": "不明",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "相模原市緑区青野原",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月24日",
+    "time": "10時10分",
+    "number_of_bears": "1",
+    "status": "捕殺",
+    "location": "有害鳥獣捕獲のためのシカ、イノシシ用くくり罠に錯誤捕獲。",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月26日",
+    "time": "11時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市大山",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月27日",
+    "time": "16時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市寺山",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月30日",
+    "time": "16時30分頃",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "厚木市七沢",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "6月29日",
+    "time": "19時39分",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "相模原市緑区青根",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "7月1日",
+    "time": "午前中",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "相模原市緑区牧野",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "7月20日",
+    "time": "9時15分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市蓑毛",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "7月26日",
+    "time": "正午頃",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "愛川町八菅山",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "7月26日",
+    "time": "16時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市蓑毛",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "7月26日",
+    "time": "夕方頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町神尾田",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "7月27日",
+    "time": "6時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町寄",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "7月27日",
+    "time": "昼頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町神尾田",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "7月29日",
+    "time": "20時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "清川村宮ケ瀬",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "7月30日",
+    "time": "14時50分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市堀西",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月5日",
+    "time": "18時55分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市小蓑毛",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月8日",
+    "time": "5時46分",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "伊勢原市子易",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月9日",
+    "time": "6時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "愛川町八菅山",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月10日",
+    "time": "10時03分",
+    "number_of_bears": "1",
+    "status": "捕殺",
+    "location": "飼養の鶏に強い執着があり、人身被害のおそれがあると判断したため、",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月10日",
+    "time": "11時頃",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "愛川町半原",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月10日",
+    "time": "21時36分",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "愛川町八菅山",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月15日",
+    "time": "14時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市子易",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月15日",
+    "time": "17時40分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市大山",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月20日",
+    "time": "16時05分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町寄",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月21日",
+    "time": "11時00分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市日向",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月22日",
+    "time": "21時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "清川村宮ケ瀬",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月23日",
+    "time": "11時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町向原",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月23日",
+    "time": "12時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市日向",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月27日",
+    "time": "11時頃",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "愛川町半原",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "8月27日",
+    "time": "不明",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "相模原市緑区名倉",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月2日",
+    "time": "18時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市蓑毛",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月5日",
+    "time": "午前",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "愛川町半原",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月7日",
+    "time": "18時15分",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市善波",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月10日",
+    "time": "11時30分頃",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "秦野市蓑毛",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月16日",
+    "time": "8時頃",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "山北町山北",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月18日",
+    "time": "14時頃",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "伊勢原市子易",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月19日",
+    "time": "17時20分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町皆瀬川",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月21日",
+    "time": "7時頃",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "相模原市緑区小渕",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月22日",
+    "time": "7時55分頃",
+    "number_of_bears": "2",
+    "status": "目撃",
+    "location": "清川村煤ケ谷",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月23日",
+    "time": "19時30分",
+    "number_of_bears": "2",
+    "status": "目撃",
+    "location": "清川村煤ケ谷",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月25日",
+    "time": "16時10分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市横野",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月26日",
+    "time": "11時35分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市横野",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月27日",
+    "time": "17時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "愛川町八菅山",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "9月28日",
+    "time": "14時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市大山",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月1日",
+    "time": "16時30分頃",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "南足柄市沼田",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月8日",
+    "time": "13時30分",
+    "number_of_bears": "2",
+    "status": "目撃",
+    "location": "清川村煤ケ谷",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月16日",
+    "time": "8時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市大山",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月19日",
+    "time": "6時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町寄",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月19日",
+    "time": "17時03分",
+    "number_of_bears": "2",
+    "status": "目撃",
+    "location": "清川村煤ケ谷",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月21日",
+    "time": "6時05分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市羽根",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月25日",
+    "time": "15時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町松田庶子",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月25日",
+    "time": "16時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市南矢名",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月27日",
+    "time": "午前中",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "山北町向原",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月27日",
+    "time": "15時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市南矢名",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月27日",
+    "time": "16時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市南矢名",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月28日",
+    "time": "17時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町山市場",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月29日",
+    "time": "2時55分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市曽屋",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月29日",
+    "time": "昼頃",
+    "number_of_bears": "1",
+    "status": "錯誤捕獲",
+    "location": "",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月31日",
+    "time": "4時40分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "厚木市岡津古久",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月31日",
+    "time": "5時頃",
+    "number_of_bears": "1",
+    "status": "錯誤捕獲",
+    "location": "有害鳥獣捕獲用のくくり罠に錯誤で捕獲。同日中に丹沢山地奥山に放",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月31日",
+    "time": "11時30分頃",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "秦野市菩提",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "10月31日",
+    "time": "13時30分頃",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "秦野市戸川",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月1日",
+    "time": "12時05分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町松田庶子",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月4日",
+    "time": "10時30分頃",
+    "number_of_bears": "1",
+    "status": "錯誤捕獲",
+    "location": "有害鳥獣捕獲用のくくり罠に錯誤で捕獲。同日中に丹沢山地奥山に放",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月6日",
+    "time": "8時頃",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "秦野市横野",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月6日",
+    "time": "20時15分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市菩提",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月7日",
+    "time": "5時40分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "秦野市菩提",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月7日",
+    "time": "11時55分",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "清川村煤ケ谷",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月7日",
+    "time": "16時15分",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "清川村煤ケ谷",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月9日",
+    "time": "7時頃",
+    "number_of_bears": "1",
+    "status": "錯誤捕獲",
+    "location": "",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月12日",
+    "time": "6時30分",
+    "number_of_bears": "3",
+    "status": "目撃",
+    "location": "山北町向原",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月14日",
+    "time": "12時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "伊勢原市大山",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月14日",
+    "time": "17時45分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町松田庶子",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月14日",
+    "time": "午前",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "伊勢原市子易",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月15日",
+    "time": "17時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町皆瀬川",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月15日",
+    "time": "19時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町皆瀬川",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月18日",
+    "time": "夕方頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町皆瀬川",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月18日",
+    "time": "18時30分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町寄",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月21日",
+    "time": "19時40分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町寄",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月21日",
+    "time": "20時53分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町寄",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月23日",
+    "time": "9時40分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町神縄",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月23日",
+    "time": "午前中",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "山北町神縄",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月24日",
+    "time": "昼間",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "山北町山北",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "11月30日",
+    "time": "不明",
+    "number_of_bears": "不明",
+    "status": "痕跡",
+    "location": "秦野市菩提",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "12月5日",
+    "time": "7時10分頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "愛川町半原",
+    "area_type": "人里",
+    "observation_type": "○"
+  },
+  {
+    "date": "12月12日",
+    "time": "8時頃",
+    "number_of_bears": "1",
+    "status": "目撃",
+    "location": "松田町松田惣領",
+    "area_type": "山中",
+    "observation_type": "○"
+  }
+]
