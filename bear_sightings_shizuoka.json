@@ -522,7 +522,7 @@
     "location": "千頭"
   },
   {
-    "number": "60",
+    "number": "60-1",
     "date": "8月14日",
     "municipality": "富士宮市",
     "location": "猪之頭"
@@ -537,7 +537,7 @@
     "number": "62-1",
     "date": "8月17日",
     "municipality": "浜松市天竜区",
-    "location": "水窪町山住"
+    "location": "水窪町山"
   },
   {
     "number": "13-3",
@@ -591,7 +591,7 @@
     "number": "69",
     "date": "9月12日",
     "municipality": "浜松市浜名区",
-    "location": "引佐町東久留"
+    "location": "引佐町東久"
   },
   {
     "number": "65-2",
@@ -645,7 +645,7 @@
     "number": "51-2",
     "date": "10月4日",
     "municipality": "浜松市天竜区",
-    "location": "水窪町奥領"
+    "location": "水窪町奥"
   },
   {
     "number": "72-1",
@@ -670,5 +670,11 @@
     "date": "12月4日",
     "municipality": "静岡市清水区",
     "location": "由比阿僧"
+  },
+  {
+    "number": "82-4",
+    "date": "12月5日",
+    "municipality": "静岡市清水区",
+    "location": "杉山"
   }
 ]

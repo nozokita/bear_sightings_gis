@@ -1024,5 +1024,23 @@
     "location": "松田町松田惣領",
     "area_type": "山中",
     "observation_type": "○"
+  },
+  {
+    "date": "12月16日",
+    "time": "21時36分",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "松田町松田庶子",
+    "area_type": "山中",
+    "observation_type": "○"
+  },
+  {
+    "date": "12月20日",
+    "time": "5時43分",
+    "number_of_bears": "1",
+    "status": "痕跡",
+    "location": "松田町松田庶子",
+    "area_type": "山中",
+    "observation_type": "○"
   }
 ]
